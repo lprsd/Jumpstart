@@ -1,5 +1,7 @@
-Jumpstart
-=======================
+# Jumpstart
+
+## ALERT: If you intend to take this course, please do not read through the course material as the effectiveness of learnings depend on reaching the solution through discussions not knowing the answers
+ 
 
 Jumpstart is a curriculum to help make Smart Students to Smart Engineers. It could be also be useful for experienced developers as a refresher.
 
