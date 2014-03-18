@@ -9,9 +9,9 @@ LaunchPad is a finishing school for programmers which helps good programmers to 
 
 Students that are recently graduated in Computer Science have good exposure to algorithms, writing snippets of code for performing an action but could use a primer on writing real world maintainable complex software in quick iterations with best practices and right approach to: version control, continuous integration, agile development, right tools, design patterns etc.
 
-### Smart Engineer
+### What to expect
 
-Certain practices and principles help a programmer to be a smart engineer. The most significant traits of a good programmer is an ability to think about the problem domain at various abstraction levels.
+Certain practices and principles help programmers to be good software engineers. The most significant traits of a good programmer is an ability to think about the problem domain at various abstraction levels.
 
 * Agility
 * Design
