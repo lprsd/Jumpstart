@@ -1,7 +1,7 @@
 # LaunchPad
 
-## ALERT: If you intend to take this course, please do not read through the course material as the effectiveness of learnings depend on reaching the solution through a series discussions and there is no one RIGHT answer. Reading the course material upfront will bias you and hence reduce the effectiveness of the sessions.
-## However if you want to deliver the course, go right ahead. 
+#### ALERT: If you intend to take this course, please do not read through the course material as the effectiveness of learnings depend on reaching the solution through a series discussions and there is no one RIGHT answer. Reading the course material upfront will bias you and hence reduce the effectiveness of the sessions.
+#### However if you want to deliver the course, go right ahead. 
 
 LaunchPad is a finishing school for programmers which helps good programmers to become exceptional. It helps them enhance their Software Engineering skills to solve the problems in the demanding and ever-changing industry. It is delivered through continuous interactions using the [Socratic method](http://en.wikipedia.org/wiki/Socratic_method "Wikipedia").
 
