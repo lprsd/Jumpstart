@@ -1,11 +1,11 @@
 # LaunchPad
 
-## ALERT: If you intend to take this course, please do not read through the course material as the effectiveness of learnings depend on reaching the solution through discussions not knowing the answers
+## ALERT: If you intend to take this course, please do not read through the course material as the effectiveness of learnings depend on reaching the solution through a series discussions and there is no one RIGHT answer. Reading the course material upfront will bias you and hence reduce the effectiveness of the sessions.
 ## However if you want to deliver the course, go right ahead. 
 
-LaunchPad is a curriculum to help Smart Students to become Smart Engineers. It could be also be useful for experienced developers as a refresher. The course focuses on various software engineering practices and is delivered using a [Socratic method](http://en.wikipedia.org/wiki/Socratic_method "Wikipedia"). More about the Socratic Method of delivery later. 
+LaunchPad is a finishing school for programmers which helps good programmers to become exceptional. It helps them enhance their Software Engineering skills to solve the problems in the demanding and ever-changing industry. It is delivered through continuous interactions using the [Socratic method](http://en.wikipedia.org/wiki/Socratic_method "Wikipedia").
 
-### Smart Students
+### Target Audience
 
 Students that are recently graduated in Computer Science have good exposure to algorithms, writing snippets of code for performing an action but could use a primer on writing real world maintainable complex software in quick iterations with best practices and right approach to: version control, continuous integration, agile development, right tools, design patterns etc.
 
